@@ -1,0 +1,2 @@
+# Tech
+my first repository
